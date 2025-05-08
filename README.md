@@ -51,7 +51,7 @@ This repository includes references to seminal works on MYCIN, including:
 
 ## Author
 
-Ninitha P. (23BBCCED079)  
+Ninitha P  
 BCA [Cybersecurity, Ethical Hacking, Digital Forensics]  
 Yenepoya Institute of Arts, Science, Commerce & Management  
 Bengaluru
